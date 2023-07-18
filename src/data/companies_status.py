@@ -1,0 +1,1 @@
+companies_status = ['ACTIVE', 'BANKRUPT', 'CLOSED']
